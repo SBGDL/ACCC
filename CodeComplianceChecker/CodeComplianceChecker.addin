@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>CodeComplianceChecker</Name>
+		<Assembly>CodeComplianceChecker.dll</Assembly>
+		<AddInId>
+			C816F289-AEB2-4CD0-B78F-B11789AE0822
+		</AddInId>
+		<FullClassName>CodeComplianceChecker.mycommands</FullClassName>
+		<Text>Check Model</Text>
+		<Description>Check the model against Regulations</Description>
+		<VendorId>Soheila</VendorId>
+		<VendorDescription>@Learndynamo</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+</RevitAddIns>

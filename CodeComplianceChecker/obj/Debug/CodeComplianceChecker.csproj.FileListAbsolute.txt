@@ -1,0 +1,21 @@
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\CodeComplianceChecker\CodeComplianceChecker\bin\Debug\CodeComplianceChecker.addin
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\CodeComplianceChecker\CodeComplianceChecker\bin\Debug\CodeComplianceChecker.dll
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\CodeComplianceChecker\CodeComplianceChecker\bin\Debug\CodeComplianceChecker.pdb
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.csprojAssemblyReference.cache
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.csproj.CoreCompileInputs.cache
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.dll
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.pdb
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\bin\Debug\CodeComplianceChecker.addin
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\bin\Debug\CodeComplianceChecker.dll
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\bin\Debug\CodeComplianceChecker.pdb
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.csprojAssemblyReference.cache
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.csproj.CoreCompileInputs.cache
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.dll
+C:\Users\FESG\Desktop\Soheila\BIM\C# programmming\MyGitFolder\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.pdb
+Y:\FES R&D\1912376_PhD_Soheila_BIM\2_FESG\4_Calc\C#\25052020_ working complete\CodeComplianceChecker\CodeComplianceChecker\bin\Debug\CodeComplianceChecker.addin
+Y:\FES R&D\1912376_PhD_Soheila_BIM\2_FESG\4_Calc\C#\25052020_ working complete\CodeComplianceChecker\CodeComplianceChecker\bin\Debug\CodeComplianceChecker.dll
+Y:\FES R&D\1912376_PhD_Soheila_BIM\2_FESG\4_Calc\C#\25052020_ working complete\CodeComplianceChecker\CodeComplianceChecker\bin\Debug\CodeComplianceChecker.pdb
+Y:\FES R&D\1912376_PhD_Soheila_BIM\2_FESG\4_Calc\C#\25052020_ working complete\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.csprojAssemblyReference.cache
+Y:\FES R&D\1912376_PhD_Soheila_BIM\2_FESG\4_Calc\C#\25052020_ working complete\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.csproj.CoreCompileInputs.cache
+Y:\FES R&D\1912376_PhD_Soheila_BIM\2_FESG\4_Calc\C#\25052020_ working complete\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.dll
+Y:\FES R&D\1912376_PhD_Soheila_BIM\2_FESG\4_Calc\C#\25052020_ working complete\CodeComplianceChecker\CodeComplianceChecker\obj\Debug\CodeComplianceChecker.pdb
